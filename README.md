@@ -3,11 +3,9 @@
 
 ### (Quantitative Finance) Programmatic Implementation
 
-
 > * Roger Adkins* - _Bradford University School of Management_
 > * Dean Paxson** - _Manchester Business School_
-
-Submitted to Real Options Conference, Japan
+> Submitted to Real Options Conference, Japan
 [26 January, 2013]
 
 **Israel Castillo Herrera** - Python Modelling
@@ -17,7 +15,7 @@ _Ingeniería Financiera. 2020._
 
 ## Abstract
 
-A Pythond Modelling Implementation.
+**A Pythond Modelling Implementation.**
 
 American perpetual compound options, not relying on bivariate or multivariate distribution function. 
 This model is especially applicable for a real sequential investment opportunity, 
