@@ -1,32 +1,39 @@
 # sequential_investment_valuation
-## An Adkins &amp; Paxson method Modelling on Sequential Investment Opportunites for Project Valuation. (Quantitative Finance) Programmatic Implementation
+## An Adkins &amp; Paxson method Modelling on Sequential Investment Opportunites for Project Valuation. 
+
+### (Quantitative Finance) Programmatic Implementation
 
 
-Roger Adkins*
+Roger Adkins* - _Bradford University School of Management_
 
-Bradford University School of Management
-
-Dean Paxson**
-
-Manchester Business School
-
-**Israel Castillo Herrera** - Python Modelling
-
-Ingeniería Financiera. 2020.
+Dean Paxson** - _Manchester Business School_
 
 
 Submitted to Real Options Conference, Japan
-26 January, 2013
+[26 January, 2013]
 
-## Abstract
+**Israel Castillo Herrera** - Python Modelling
 
-An analytical solution for American perpetual compound options, that do not rely on
-a bivariate or multivariate distribution function. This model is especially applicable for a real
-sequential investment opportunity, such as a series of drug development, tests and clinical trials,
+_Ingeniería Financiera. 2020._
+
+
+### Abstract
+
+A Pythond Modelling Implementation.
+
+American perpetual compound options, not relying on bivariate or multivariate distribution function. 
+This model is especially applicable for a real sequential investment opportunity, 
+such as a series of drug development, tests and clinical trials,
 where the project can be cancelled at any time, and where the probability of failure declines over
-stages of completion. The effect of changing input parameter values can clearly be seen in terms
+stages of completion. 
+
+The effect of changing input parameter values can clearly be seen in terms
 of resulting overall project process volatility, and the effective mark-up factor which justifies
-continuing with each investment stage. I
+continuing with each investment stage. 
+
+This study
+appears to be a unique approach, which yields the threshold project value relative to investment
+costs that justifies investment at each stage, with no timing restrictions.
 
 
 ### Problem Setup - Initial Variables
