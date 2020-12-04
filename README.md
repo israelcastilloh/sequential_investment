@@ -1,13 +1,11 @@
 # sequential_investment_valuation
-## An Adkins &amp; Paxson method Modelling on Sequential Investment Opportunites for Project Valuation. 
+## (Adkins &amp; Paxson) Analytical Modelling for Sequential Investment Opportunites in Project Valuations. 
 
 ### (Quantitative Finance) Programmatic Implementation
 
 
-Roger Adkins* - _Bradford University School of Management_
-
-Dean Paxson** - _Manchester Business School_
-
+> * Roger Adkins* - _Bradford University School of Management_
+> * Dean Paxson** - _Manchester Business School_
 
 Submitted to Real Options Conference, Japan
 [26 January, 2013]
@@ -17,7 +15,7 @@ Submitted to Real Options Conference, Japan
 _Ingeniería Financiera. 2020._
 
 
-### Abstract
+## Abstract
 
 A Pythond Modelling Implementation.
 
@@ -36,6 +34,11 @@ appears to be a unique approach, which yields the threshold project value relati
 costs that justifies investment at each stage, with no timing restrictions.
 
 
-### Problem Setup - Initial Variables
+## Problem Setup - Initial Variables
 
 ![Problem Setup](problem_setup.jpeg)
+
+## Original Paper
+> **Keywords:**  Real Options Analysis, Multi-stage Multi-factor Sequential Investment, Perpetual
+Compound Option, Catastrophic Risk
+> * http://www.realoptions.org/openconf2013/data/papers/16.pdf
